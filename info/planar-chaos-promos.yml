@@ -1,0 +1,18 @@
+---
+object: set
+id: f4e4582f-0ae8-42d7-acb7-49c29958a25e
+code: pplc
+name: Planar Chaos Promos
+uri: https://api.scryfall.com/sets/f4e4582f-0ae8-42d7-acb7-49c29958a25e
+scryfall_uri: https://scryfall.com/sets/pplc
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Applc&unique=prints
+released_at: '2007-02-02'
+set_type: promo
+card_count: 2
+parent_set_code: plc
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: tsp
+block: Time Spiral
+icon_svg_uri: https://svgs.scryfall.io/sets/plc.svg?1694404800
